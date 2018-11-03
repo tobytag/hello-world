@@ -1,2 +1,4 @@
 # hello-world
-New here.
+'''
+Hi there, I'm new here, but loving it so far. Thanks.
+
